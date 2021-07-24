@@ -1,4 +1,4 @@
-#Include this file in .ignore
+#Include this file in .gitignore
 
 #+--------------------------+
 #| Virtualbox NAT addresses |
